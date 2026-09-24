@@ -3,7 +3,9 @@
 A Java screensaver application that displays geometric shapes using Java Swing and object-oriented programming.
 
 ## About the Project
+## Application Screenshot
 
+![Java Screensaver](Java-Screensaver.png)
 This project demonstrates the use of Java graphics and object-oriented programming to create a screensaver application.
 
 The application uses different classes to represent and draw geometric shapes.
